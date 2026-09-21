@@ -1,0 +1,6 @@
+{
+  "name": "App Screens Showcase",
+  "description": "تطبيق متكامل متعدد الشاشات مع استعراض تفاعلي وربط مباشر للصور وتنقل سلس بين شاشات المتجر وتفاصيل الطلب والمفضلة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
